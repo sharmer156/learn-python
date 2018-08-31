@@ -2,7 +2,7 @@
 
 学习Python的游乐场和备忘单
 =======================
-**目录**
+**总目录**
 ---
 * [学习Python的游乐场和Cheatsheet](#学习python的游乐场和cheatsheet)
     * [目录](#目录)
@@ -10,7 +10,9 @@
 	* [先决条件](#先决条件)
 	* [测试代码](#测试代码)
 	* [Linting Code](#linting-code)
-[](https://github.com/sharmer156/learn-python#table-of-contents)目录
+[](https://github.com/sharmer156/learn-python#table-of-contents)
+
+**主要内容目录**
 ------------------------------------------------------------------
 
 1.  **入门**
