@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
 [中文说明](/README-CN.markdown)
-[中文说明](/README-CN.markdown)
+
 > This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
 code examples with explanations, different use cases and links to further readings.
 
